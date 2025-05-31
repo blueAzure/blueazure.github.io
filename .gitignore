@@ -1,0 +1,6 @@
+
+# virtualenv
+venv/
+
+# MkDocs documentation
+site*/
